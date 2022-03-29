@@ -47,9 +47,16 @@ div.list {
 }
 
 .B {
-	padding: .5vw;
+	padding-left: .5vw;
+	padding-right: 1vw;
+	padding-top: 1vw;
+	padding-bottom: 1vw;
 	
 }
+
+
+
+
 
 #about {
 	display: inline-block;

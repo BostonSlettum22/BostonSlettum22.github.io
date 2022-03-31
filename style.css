@@ -11,6 +11,8 @@ body {
 	margin-bottom: 1vw;
 	text-align: center;
 	font-size: 4vw;
+	border-color: #A5762A;
+	color: #7C4A0F;
 }
 	
 	
@@ -22,6 +24,8 @@ body {
 	text-align: center;
 	font-size: 2vw;
 	vertical-align: top;
+	border-color: #A5762A;
+	color: #7C4A0F;
 }
 	
 div.list {
@@ -32,11 +36,33 @@ div.list {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	font-size: 1.5vw;
-
 	vertical-align: top;
+	border-color: #A5762A;
+	color: #7C4A0F;
 }
 
+#about {
+	display: inline-block;
+	width: 40vw;
+	padding: 10px;
+	margin: 10px;
+	text-align: left;
+	font-size: 2vw;
+	border-color: #A5762A;
+	color: #7C4A0F;
+}
 
+div.pastxt {
+	display: inline-block;
+	border: 2px solid black;
+	padding: 10px;
+	width: 20vw;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 1vw;
+		border-color: #A5762A;
+	color: #7C4A0F;
+}
 
 .A {
 	display: inline-block;
@@ -50,6 +76,13 @@ div.list {
 	border: 2px solid black;
 	width: 11vw;
 	padding: 2vw;
+	border-color: #A5762A;
+	color: #7C4A0F;
+	
+}
+
+a {
+	color: #5B5B5B;
 }
 
 .photo {
@@ -57,30 +90,14 @@ div.list {
 	border: 2px solid black;
 	width: 80vw;
 	padding: 2vw;
+		border-color: #A5762A;
+	color: #7C4A0F;
 }
 
 
 
 
-#about {
-	display: inline-block;
-	width: 40vw;
-	padding: 10px;
-	margin: 10px;
-	text-align: left;
-	font-size: 2vw;
-}
 
-div.pastxt {
-	display: inline-block;
-	border: 2px solid black;
-	padding: 10px;
-	width: 20vw;
-	margin-top: 10px;
-	margin-bottom: 10px;
-	font-size: 1vw;
-	
-}
 
 .web {
 	display: inline-block;
@@ -89,6 +106,8 @@ div.pastxt {
 	width: 20vw;
 	margin-top: 10px;
 	margin-bottom: 10px;
+	border-color: #A5762A;
+	color: #7C4A0F;
 }
 
 
@@ -100,12 +119,16 @@ div.pastxt {
 	margin-top: 10px;
 	margin-bottom: 70px;
 	text-align: justify;
+	border-color: #A5762A;
+	color: #7C4A0F;
 }
 
 .vac {
 	border: 2px solid black;
 	width: 25vw;
 	padding: 4vw;
+		border-color: #A5762A;
+	color: #7C4A0F;
 }
 
 .brief {
@@ -248,17 +271,23 @@ div.pastxt {
 
 
 .class1 {
-	background-color: blue;
+	background-color: #FFBE00;
+	color: #C2550E;
 }
+
 .class2 {
-	background-color: red;
+	background-color: #FF8900;
+	color: #824016;
 }
 .class3 {
-	background-color: green;
+	background-color: #B05A5A;
+	color: #3B3834;
 }
 .class4 {
-	background-color: orangered;
+	background-color: #C75023;
+	color: #2A251E;
 }
 .class5 {
 	background-color: grey;
+	color: #5C4931;
 }

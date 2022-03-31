@@ -32,7 +32,7 @@ div.list {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	font-size: 1.5vw;
-	text-align: center;
+
 	vertical-align: top;
 }
 
@@ -46,14 +46,18 @@ div.list {
 	font-size: 1vw;
 }
 
-.B {
-	padding-left: .5vw;
-	padding-right: 1vw;
-	padding-top: 1vw;
-	padding-bottom: 1vw;
-	
+.stu {
+	border: 2px solid black;
+	width: 11vw;
+	padding: 2vw;
 }
 
+.photo {
+	display: block;
+	border: 2px solid black;
+	width: 80vw;
+	padding: 2vw;
+}
 
 
 
@@ -97,6 +101,17 @@ div.pastxt {
 	margin-bottom: 70px;
 	text-align: justify;
 }
+
+.vac {
+	border: 2px solid black;
+	width: 25vw;
+	padding: 4vw;
+}
+
+.brief {
+	font-size: 2vw;
+}
+
 
 #A {
 	display: inline-block;

@@ -299,3 +299,11 @@ a {
 	background-color: grey;
 	color: #5C4931;
 }
+
+
+#minus, #total, #plus {
+	display: inline-block;
+	font-size: 80px;
+	margin: 15px;
+}
+

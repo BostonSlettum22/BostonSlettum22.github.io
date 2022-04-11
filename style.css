@@ -1,7 +1,12 @@
 body {
 	background-color: #ED9F57;
 }
-
+#pl{
+	
+	width: 15vw;
+	font-size: 2vw
+	
+}
 
 #name {
 	display: inline-block;
@@ -28,9 +33,23 @@ body {
 	color: #7C4A0F;
 }
 	
+#LK2 {
+	display: inline-block;
+	width: 20vw;
+	padding: 2px;
+	margin: 10px;
+	text-align: left;
+	font-size: 2vw;
+	border-color: #A5762A;
+	color: #7C4A0F;
+}
+
+
+
+
 div.list {
 	display: inline-block;
-	width: 10vw;
+	width: 14vw;
 	border: 2px solid black;
 	padding: 10px;
 	margin-top: 10px;
@@ -40,6 +59,25 @@ div.list {
 	border-color: #A5762A;
 	color: #7C4A0F;
 }
+
+div.list2 {
+	display: inline-block;
+	width: 15vw;
+	border: 2px solid black;
+	padding: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 1.5vw;
+	vertical-align: top;
+	border-color: #A5762A;
+	color: #7C4A0F;
+}
+
+
+.question {
+	display: inline-grid;
+}
+	
 
 #about {
 	display: inline-block;
@@ -307,3 +345,8 @@ a {
 	margin: 15px;
 }
 
+#10, #minus10, #times10, #divide10, #plus100 {
+	display: inline-block;
+	font-size: 80px;
+	margin: 15px;
+}

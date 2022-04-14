@@ -1,15 +1,50 @@
 var q1 = document.getElementById("q1");
-var q1result = document.getElementById("q1result");
-var s1 = document.getElementById("s1");
+var q2 = document.getElementById("q2");
+var q3 = document.getElementById("q3");
+var q4 = document.getElementById("q4");
+var q5 = document.getElementById("q5");
+var q6 = document.getElementById("q6");
+var q7 = document.getElementById("q7");
+var q8 = document.getElementById("q8");
+var q9 = document.getElementById("q9");
+var q10 = document.getElementById("q10");
+var submit = document.getElementById("submit");
+var score = document.getElementById("score");
+var result = 0;
 
-function checkq1(){
-	if (q1.value == "basket ball"){
-		q1result.innerHTML = "correct";
+function calculate() {
+	if (q1.value == "to magnify objects"){
+		result = result + 1;
 	}
-	
-	else{
-		document.getElementById("q1result").innerHTML = "incorrect"
+	if (q2.value == "60 fps"){
+		result = result + 1;
 	}
+	if (q3.value == "4:3"){
+		result = result + 1;
+	}
+	if (q4.value == "Apature"){
+		result = result + 1;
+	}
+	if (q5.value == "photoshop"){
+		result = result + 1;
+	}
+	if (q6.value == "Microsoft"){
+		result = result + 1;
+	}
+	if (q7.value == "Log preset"){
+		result = result + 1;
+	}
+	if (q8.value == "Shutter Speed"){
+		result = result + 1;
+	}
+	if (q9.value == "37"){
+		result = result + 1;
+	}
+	if (q10.value == "it makes the bokeh circles more round"){
+		result = result + 1;
 }
-	s1.addEventListener("click", checkq1);
-	
+
+
+submit.addEventListener("click", calculate);
+calculate()
+

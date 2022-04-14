@@ -8,6 +8,11 @@ body {
 	
 }
 
+.buttons {
+	display: block;
+	vertical-align: 10vw;
+}
+
 #name {
 	display: inline-block;
 	width: 90vw;
@@ -124,15 +129,22 @@ a {
 }
 
 .photo {
-	display: block;
+	display: inline-block;
 	border: 2px solid black;
-	width: 80vw;
+	width: 60vw;
 	padding: 2vw;
-		border-color: #A5762A;
+	border-color: #A5762A;
 	color: #7C4A0F;
 }
 
-
+.button {
+	display: inline-block;
+	bottom-margin: 5px;
+	border: 2px solid #A5620D;
+	vertical-align: 10vw;
+	text-align: justify;
+	font-size: 1vw;
+}
 
 
 

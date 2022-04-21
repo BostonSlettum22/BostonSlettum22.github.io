@@ -1,0 +1,28 @@
+div.topbar {
+	background-color: #001489;
+	color: white;
+	
+}
+
+.top {
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 2.5vw;
+	padding-top: 1vw;
+	padding-bottom: 1vw;
+	font-size: 2vw;
+}
+
+
+
+.photos {
+	
+}
+
+#mainphoto {
+	padding-top: 3vw;
+	padding-left: 5vw;
+	padding-bottom: 3vw;
+	hieght: 30vw;
+	width: 30vw;
+}

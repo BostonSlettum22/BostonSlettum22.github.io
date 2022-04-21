@@ -1,3 +1,7 @@
+
+
+
+
 function checkpass() {
 	if (document.getElementById("password").value == "password"){
 	document.getElementById("access"). innerHTML = "access granted";
@@ -5,7 +9,8 @@ function checkpass() {
 
 
 	else{
-		document.getElementsById("access").innerHTML = "access denied";
+		document.getElementsById("access").innerHTML = "the password " +
+		document.getElementById("password").value + "was the wrong password";
 	}
 }
 

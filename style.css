@@ -5,8 +5,16 @@ body {
 	
 	width: 15vw;
 	font-size: 2vw
-	
 }
+
+#a1, #a2, #a3, #a4, #a5, #a6, #7, #8, #9, #10 {
+	display: inline;
+	width: 10vw;
+}
+
+
+
+
 
 .buttons {
 	display: block;
@@ -130,12 +138,15 @@ a {
 
 .photo {
 	display: inline-block;
-	border: 2px solid black;
+	border: 2px solid black; 
 	width: 60vw;
 	padding: 2vw;
 	border-color: #A5762A;
 	color: #7C4A0F;
 }
+
+
+
 
 .button {
 	display: inline-block;
@@ -361,4 +372,11 @@ a {
 	display: inline-block;
 	font-size: 80px;
 	margin: 15px;
+}
+
+#photos {
+	display: block;
+	width: 30vw;
+	
+
 }

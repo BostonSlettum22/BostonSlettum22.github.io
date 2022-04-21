@@ -44,7 +44,19 @@ function calculate() {
 		result = result + 1;
 }
 
-
+q1.addEventListener("click", calculate);
+q2.addEventListener("click", calculate);
+q3.addEventListener("click", calculate);
+q4.addEventListener("click", calculate);
+q5.addEventListener("click", calculate);
+q6.addEventListener("click", calculate);
+q7.addEventListener("click", calculate);
+q8.addEventListener("click", calculate);
+q9.addEventListener("click", calculate);
+q10.addEventListener("click", calculate);
 submit.addEventListener("click", calculate);
-calculate()
+score.addEventListener("click", calculate);
+result.addEventListener("click", calculate);
+
+
 

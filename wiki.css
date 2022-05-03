@@ -1,0 +1,42 @@
+#logo {
+	display: block;
+	width: 10vw;
+	height: 10vw;
+}
+
+#wikitop {
+	padding-top: 2vw;
+}
+
+.wikitop {
+	display: block;
+}
+
+.sidebar {
+	display: block;
+	height: .5vw;
+}
+.mainpage {
+	display: inline-block;
+	
+}
+#space {
+	display: 1vw;
+	padding-bottom: 2vw;
+}
+#space2 {
+	display: 1vw;
+	padding-bottom: 2vw;
+}
+#space3 {
+	display: 1vw;
+	padding-bottom: 2vw;
+}
+#space4 {
+	display: 1vw;
+	padding-bottom: 2vw;
+}
+#space5 {
+	display: 1vw;
+	padding-bottom: 2vw;
+}

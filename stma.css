@@ -32,3 +32,135 @@ div.topbar {
 	padding-bottom: 3vw;
 
 }
+
+.topapple {
+	display: inline-block;
+	vertical-align: 1vw;
+	width: 2vw;
+	height: 2vw;
+	
+
+	
+}
+
+.toptext {
+	display: inline-block;
+	color: #d6d6d6;
+	vertical-align: 1.5vw;
+	margin: 1vw;
+	font-size: 1vw;
+}
+
+#topapp {
+	background: #303030;
+}
+
+
+#first {
+	vertical-align: 1vw;
+	padding-top: 1vw;
+	padding-left: 12vw;
+}
+
+#midapp {
+	background: #fbfbfd;
+}
+
+.midapple {
+	display: inline-block;
+	vertical-align: 1vw;
+		padding-left: 2vw;
+	
+	width: 4vw;
+	height: 4vw;
+}
+	
+#second {
+		vertical-align: 1vw;
+	padding-top: 0.5vw;
+	padding-left: 11vw;
+}
+
+#single {
+	display: inline-block;
+	width: 2vw;
+	height: 4vw;
+}
+#SE {
+	display: inline-block;
+
+	width: 1.8vw;
+	height: 3.5vw;
+}
+
+#compare {
+		display: inline-block;
+	width: 4vw;
+	height: 4vw;
+}
+#airpoods {
+			display: inline-block;
+	width: 2.5vw;
+	height: 3vw;
+}
+#airtag {
+			display: inline-block;
+	width: 3vw;
+	height: 3vw;
+}
+#accessories {
+				display: inline-block;
+	width: 2.5vw;
+	height: 3.5vw;
+}
+#applecard {
+				display: inline-block;
+	width: 3vw;
+	height: 2vw;
+}
+#ios {
+					display: inline-block;
+	width: 4vw;
+	height: 3vw;
+}
+#shop {
+					display: inline-block;
+	width: 6vw;
+	height: 5vw;
+}
+
+.midtext {
+	display: inline;
+	width: 10vw;
+	padding-left: 3vw
+}
+
+.midapp {
+	background: #fbfbfd;
+}
+#left2 {
+	padding-left: 11vw;
+}
+#txtedit1 {
+	padding-left: 2.5vw;
+}
+#txtedit2 {
+	padding-left: 2vw;
+}
+#txtedit3 {
+	padding-left: 2.5vw;
+}
+
+#txtedit4 {
+	padding-left: 2.5vw;
+}
+
+#txtedit7 {
+	padding-left: 2.5vw;
+}
+#txtedit8 {
+	padding-left: 2vw;
+}
+#txtedit10 {
+	padding-left: 4vw;
+}

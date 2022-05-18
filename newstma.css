@@ -1,0 +1,48 @@
+.topbar {
+	display: inline-block;
+	background: #04399C;
+	vertical-align: top;
+	color:white;
+	
+	width: 16.5vw;
+	font-size: 1.5vw;
+}
+.side {
+	display: inline-block;
+	
+	padding-bottom: -.5vw;
+	padding-left: 1vw;
+}
+
+.mainphotos{
+	display: inline-block;
+	vertical-align: top;
+	width: 5vw;
+	padding-top: 3vw;
+	padding-right: 2vw;
+	padding-left: 6vw;
+}
+.mainphotos1{
+	display: inline-block;
+	vertical-align: top;
+	width: 1vw;
+	padding-top: 3vw;
+	
+}
+.main {
+	display: inline;
+	vertical-align: top;
+}
+.photo {
+	display: inline;
+	vertical-align: top;
+	width: 7.5vw;
+	height: 7.4vw;
+	
+}
+#mainphoto {
+	display: inline;
+	width: 30vw;
+	padding-left: 20vw;
+	padding-top: 5vw;
+}

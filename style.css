@@ -56,7 +56,16 @@ body {
 	border-color: #A5762A;
 	color: #7C4A0F;
 }
-
+#LK3 {
+	display: inline-block;
+	width: 20vw;
+	padding: 2px;
+	margin: 10px;
+	text-align: left;
+	font-size: 2vw;
+	border-color: #A5762A;
+	color: #7C4A0F;
+}
 
 
 

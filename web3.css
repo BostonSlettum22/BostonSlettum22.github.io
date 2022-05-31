@@ -27,11 +27,17 @@ body {
 }
 .pharagraph2 {
 	display: block;
-	padding-bottom: -1vw;
-	width: 8vw;
+	
+	width: 18vw;
 	color:#1A5ABC;
-	margin: 1vw;
+	margin-top: -3vw;
+	margin-left: 2vw;
 	font-size: 1.8vw;
+}
+.paratotal {
+	display: inline-block;
+	padding-top: 2.5vw;
+	
 }
 #para1 {
 	display: inline-block;
@@ -44,7 +50,7 @@ body {
 	border: 2px solid #2A7678;
 }
 .para {
-	display: block;
+	display: inline-block;
 	background-color: #60C1C9;
 	border: 2px solid #2A7678;
 }

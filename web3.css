@@ -59,22 +59,20 @@ body {
 	vertical-align: top;
 	padding-top: 1vw;
 }
-.totalp {
+.finalphoto{
 	display: inline-block;
-	padding-top: 1vw;
-	padding-left: 3vw;
-	padding-bottom: 1vw;
-	width: 5vw;
+	vertical-align: top;
 }
 .photo5 {
 	display: inline-block;
 	border: 2px solid #2A7678; 
 	width: 10vw;
 	height: 10.5vw;
-	padding-top: -1vw;
-	padding-left: -1vw;
-	padding-right: 2vw;
+	padding-top: 1vw;
+	padding-left: 3vw;
 	padding-bottom: 1vw;
+	width: 10vw;
+	height: 15vw;
 	color: #7C4A0F;
 	background: #60C1C9;
 }
@@ -83,10 +81,19 @@ body {
 	height: 1vw;
 	width: 8vw;
 }
+.photobomb {
+	display: inline-block;
+	vertical-align: top;
+}
 .photos {
 	display: inline-block;
 	width: 15vw;
 	height: 25vw;
+}
+#photos {
+	display: inline-block;
+	vertical-align: top;
+
 }
 #photo1 {
 		display:inline-block;
